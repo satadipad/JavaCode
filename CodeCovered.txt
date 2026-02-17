@@ -1,0 +1,3 @@
+1. Reverse a String - Using loop method & StringBuilder. Careful use of equals
+2. Palindrome - Using StringBuilder and first and last variable comparison
+3. Anagram - using Arrays and FrequencyArray - Compared Complexities.
